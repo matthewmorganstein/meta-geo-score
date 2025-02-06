@@ -1,8 +1,5 @@
 # meta-geo-score
-The enhanced version of the Geometric Calculator is an advanced market analysis tool that leverages geometric mathematics, meta-learning, and adaptive attention mechanisms to generate predictive scores and insights.
-
-
-# Enhanced Geometric Calculator Documentation
+# Meta Geometric Calculator Documentation
 
 ## Overview
 
